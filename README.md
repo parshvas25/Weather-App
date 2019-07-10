@@ -1,1 +1,1 @@
-Javascript project which uses a weather api to provide real time temperature at any given location. 
+React project which uses a live weather api to provide information about the weather at a given location
